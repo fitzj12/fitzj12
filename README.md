@@ -1,5 +1,11 @@
 ### Hi there 👋
+My name is Fitzgerald Johnson (aka FITZ)
 
+I enjoy speaking, teaching, and learning new technology.
+
+I am completing the Udacity Business Analytics Nanodegree Program.
+
+Contact me at fitzj12@outlook.com
 <!--
 **fitzj12/fitzj12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
